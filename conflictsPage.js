@@ -1,4 +1,4 @@
 const a=()=>
 {
-    console.log("a func")
+    console.log("a function")
 }
